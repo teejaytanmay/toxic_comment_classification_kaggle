@@ -1,0 +1,19 @@
+Package requirements:
+
+imblearn
+scikit learn
+numpy
+pandas
+seaborn
+nltk 
+nltk stopwords
+matplotlib
+collections
+wordcloud
+re
+regex
+string
+scipy
+
+To run the code, use command:
+python run.py
